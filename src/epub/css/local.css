@@ -1,0 +1,34 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+.signature{
+	font-style: italic;
+	margin-top: 2em;
+	text-align: right;
+}
+
+.center{
+	text-align: center;
+}
+
+.placard{
+	text-align: center;
+	font-variant: small-caps;
+	margin: 1em;
+}
+
+.placard + p{
+	text-indent: 0;
+}
+
+p[epub|type~="bridgehead"]{
+	font-style: italic;
+	hyphens: none;
+	margin: 2em 0;
+	text-align: center;
+	text-indent: 0;
+}
+
+p[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
