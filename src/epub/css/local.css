@@ -14,11 +14,6 @@
 .placard{
 	text-align: center;
 	font-variant: small-caps;
-	margin: 1em;
-}
-
-.placard + p{
-	text-indent: 0;
 }
 
 section > header{
