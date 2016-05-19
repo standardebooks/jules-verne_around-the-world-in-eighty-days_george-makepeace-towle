@@ -40,18 +40,18 @@
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">George Makepeace Towle</dc:contributor>
 		<meta property="file-as" refines="#translator">Towle, George Makepeace</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/George_Makepeace_Towle</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n83153044.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n83153044</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Isaac Ilyich Levitan</dc:contributor>
 		<meta property="file-as" refines="#artist">Ilyich Levitan, Isaac</meta>
 		<meta property="alternate-script" refines="#artist" xml:lang="ru">Исаа́к Ильи́ч Левита́н</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Isaac_Levitan</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82001658.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82001658</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
