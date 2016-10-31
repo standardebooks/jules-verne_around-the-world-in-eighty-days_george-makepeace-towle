@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/around-the-world-in-eighty-days/george-makepeace-towle</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-08-24T16:49:58Z</meta>
-		<meta property="se:revision-number">40</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:39Z</meta>
+		<meta property="se:revision-number">41</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -26,8 +26,8 @@
 		<dc:description id="description">A colorful Victorian-era tale of a race to cirumnavigate the globe.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Jules Verne&amp;rsquo;s most-acclaimed novel remains a cultural cornerstone to this day.  The story of Phileas Fogg&amp;rsquo;s spectacular journey by then-novel technologies is a fast-paced, colorful, and thoroughly enjoyable portrait of the British empire at the height of its power.&lt;/p&gt;
-			&lt;p&gt;Originally published as a serial so believable that readers at the time placed bets on whether Fogg would succeed or not, Verne&amp;rsquo;s adventure epic continues to inspire travelers and adventurers to this day.&lt;/p&gt;
+			&lt;p&gt;Jules Verne’s most-acclaimed novel remains a cultural cornerstone to this day.  The story of Phileas Fogg’s spectacular journey by then-novel technologies is a fast-paced, colorful, and thoroughly enjoyable portrait of the British empire at the height of its power.&lt;/p&gt;
+			&lt;p&gt;Originally published as a serial so believable that readers at the time placed bets on whether Fogg would succeed or not, Verne’s adventure epic continues to inspire travelers and adventurers to this day.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
