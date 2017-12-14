@@ -32,3 +32,15 @@ section > header{
 abbr.name{
 	white-space: nowrap;
 }
+
+table td:first-child{
+	padding-right: 1em;
+}
+
+table td:last-child{
+	text-align: right;
+}
+
+table tr:last-child td:last-child{
+	border-top: 1px solid;
+}
