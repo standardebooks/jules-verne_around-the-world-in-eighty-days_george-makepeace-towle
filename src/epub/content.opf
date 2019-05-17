@@ -26,20 +26,19 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Around the World In Eighty Days</dc:title>
 		<meta property="file-as" refines="#title">Around the World In Eighty Days</meta>
 		<dc:subject id="subject-1">Voyages around the world--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/95061731</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A colorful Victorian-era tale of a race to cirumnavigate the globe.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Jules Verne’s most-acclaimed novel remains a cultural cornerstone to this day. The story of Phileas Fogg’s spectacular journey by then-novel technologies is a fast-paced, colorful, and thoroughly enjoyable portrait of the British empire at the height of its power.&lt;/p&gt;
 			&lt;p&gt;Originally published as a serial so believable that readers at the time placed bets on whether Fogg would succeed or not, Verne’s adventure epic continues to inspire travelers and adventurers to this day.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/103</dc:source>
 		<dc:source>https://archive.org/details/aroundworldinei00verngoog</dc:source>
