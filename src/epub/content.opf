@@ -37,7 +37,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A colorful Victorian-era tale of a race to cirumnavigate the globe.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Jules Verne’s most-acclaimed novel remains a cultural cornerstone to this day. The story of Phileas Fogg’s spectacular journey by then-novel technologies is a fast-paced, colorful, and thoroughly enjoyable portrait of the British empire at the height of its power.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne’s&lt;/a&gt; most-acclaimed novel remains a cultural cornerstone to this day. The story of Phileas Fogg’s spectacular journey by then-novel technologies is a fast-paced, colorful, and thoroughly enjoyable portrait of the British empire at the height of its power.&lt;/p&gt;
 			&lt;p&gt;Originally published as a serial so believable that readers at the time placed bets on whether Fogg would succeed or not, Verne’s adventure epic continues to inspire travelers and adventurers to this day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
