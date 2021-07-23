@@ -28,8 +28,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Around the World In Eighty Days</dc:title>
-		<meta property="file-as" refines="#title">Around the World In Eighty Days</meta>
+		<dc:title id="title">Around the World in Eighty Days</dc:title>
+		<meta property="file-as" refines="#title">Around the World in Eighty Days</meta>
 		<meta property="se:alternate-title" refines="#title">Around the World in 80 Days</meta>
 		<dc:subject id="subject-1">Voyages around the world--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
