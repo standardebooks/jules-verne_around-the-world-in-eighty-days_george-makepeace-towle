@@ -40,7 +40,7 @@
 		<dc:description id="description">On a bet, an eccentric Victorian gentleman races to circumnavigate the globe.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne’s&lt;/a&gt; most-acclaimed novel remains a cultural cornerstone to this day. The story of Phileas Fogg’s spectacular journey by then-novel technologies is a fast-paced, colorful, and thoroughly enjoyable portrait of the British empire at the height of its power.&lt;/p&gt;
-			&lt;p&gt;Originally published as a serial so believable that readers at the time placed bets on whether Fogg would succeed or not, Verne’s adventure epic continues to inspire travelers and adventurers to this day.&lt;/p&gt;
+			&lt;p&gt;Originally published as a serial so believable that readers at the time placed bets on whether Fogg would succeed or not, Verne’s adventure epic continues to inspire travelers and adventurers even in modern times.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/103</dc:source>
