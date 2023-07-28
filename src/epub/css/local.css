@@ -30,8 +30,8 @@ table td:first-child{
 
 table td:last-child{
 	text-align: right;
-	white-space: nowrap;
 	vertical-align: bottom;
+	white-space: nowrap;
 }
 
 table tr:last-child td:last-child{
