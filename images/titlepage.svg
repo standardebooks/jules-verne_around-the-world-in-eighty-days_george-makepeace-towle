@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 790">
 	<title>The titlepage for the Standard Ebooks edition of Around the World in Eighty Days, by Jules Verne. Translated by George Makepeace Towle</title>
 	<style type="text/css">
 		text{
@@ -27,9 +27,10 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">AROUND THE WORLD</text>
-	<text class="title" x="700" y="230">IN EIGHTY DAYS</text>
-	<text class="author" x="700" y="390">JULES VERNE</text>
-	<text class="contributor-descriptor" x="700" y="570">translated by</text>
-	<text class="contributor" x="700" y="640">GEORGE MAKEPEACE TOWLE</text>
+	<text class="title" x="700" y="130">AROUND</text>
+	<text class="title" x="700" y="230">THE WORLD</text>
+	<text class="title" x="700" y="330">IN EIGHTY DAYS</text>
+	<text class="author" x="700" y="490">JULES VERNE</text>
+	<text class="contributor-descriptor" x="700" y="680">translated by</text>
+	<text class="contributor" x="700" y="740">GEORGE MAKEPEACE TOWLE</text>
 </svg>
